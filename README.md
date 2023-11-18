@@ -28,10 +28,10 @@ The file extension used throughout the examples is `.sea`, although there is no 
     + [3.2 - Writing a Hello World Program](#32---writing-a-hello-world-program)
     + [3.3 - The Diver Operator (read character from terminal)](#33---the-diver-operator--read-character-from-terminal)
     + [3.4 - Taking a Number as an Input](#34---taking-a-number-as-an-input)
-    + [Section 4 - Advanced Memory via Scoping](#section-4---advanced-memory-via-scoping)
-  * [4.1 - Changing the Scope](#41---changing-the-scope)
-  * [4.2 - Scope Locality](#42---scope-locality)
-  * [4.3 - FizzBuzz](#43---fizzbuzz)
+  * [Section 4 - Advanced Memory via Scoping](#section-4---advanced-memory-via-scoping)
+    + [4.1 - Changing the Scope](#41---changing-the-scope)
+    + [4.2 - Scope Locality](#42---scope-locality)
+    + [4.3 - FizzBuzz](#43---fizzbuzz)
 
 ## Section 1 - Static Memory Overview
 In this section we will cover the basic typing and static memory model of Sea.
