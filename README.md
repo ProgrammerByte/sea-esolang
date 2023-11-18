@@ -167,7 +167,7 @@ If both of the operands are integers then integer division will be performed, ho
 
 ### 2.3 - Assignment
 
-There is no assignemnt operator in Sea, so you will need to substitute it by arithmetic.
+There is no assignemnt operator in Sea, so you will need to substitute it with arithmetic.
 
 Suppose I wanted to load the character 'Z' into a row, then I could do:
 
