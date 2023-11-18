@@ -32,8 +32,9 @@ void find_sea_level(char **program) {
   sea_level = -1;
   for (int i = 0; *(program + i); i++) {
     char c = read_value(program, col, i);
-    if (c == '-') {
+    if (c == '-' || c == ',' || c == '.') {
       sea_level = i;
+      return;
     }
   }
 }

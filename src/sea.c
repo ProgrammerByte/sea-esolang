@@ -15,7 +15,7 @@ extern int sea_bed;
 int run_program(char **program) {
   find_sea_level(program);
   if (sea_level == -1) {
-    fprintf(stderr, "\nat least one sea level token \"-\" must be specified in column 0\n");
+    fprintf(stderr, "\nat least one sea level token \"-\", \",\", or \".\" must be specified in column 0\n");
     return 1;
   }
   int width = 0;
