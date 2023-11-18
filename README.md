@@ -21,7 +21,7 @@ The file extension used throughout the examples is `.sea`, although there is no 
     + [2.5 - Branch By Column](#25---branch-by-column)
     + [2.6 - Backwards Mathematical Operators](#26---backwards-mathematical-operators)
       - [Backwards Subtraction Example:](#backwards-subtraction-example)
-    + [Backwards Division Example](#backwards-division-example)
+      - [Backwards Division Example](#backwards-division-example)
     + [2.7 - Operator Composition](#27---operator-composition)
   * [Section 3 - Input and Output](#section-3---input-and-output)
     + [3.1 The Fisherman Operator (output)](#31-the-fisherman-operator--output)
