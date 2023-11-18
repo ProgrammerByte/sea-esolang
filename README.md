@@ -263,7 +263,7 @@ _______
 which will compute `X0 = X1 - 21`.
 <br>
 
-### Backwards Division Example
+## Backwards Division Example
 
 ```
  2   
